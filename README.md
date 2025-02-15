@@ -24,6 +24,12 @@ You will need to install [Supercluster](https://github.com/mapbox/supercluster) 
 yarn add supercluster use-supercluster
 ```
 
+If you're using TypeScript, you'll also need to install the type definitions:
+
+```txt
+yarn add @types/supercluster --dev
+```
+
 ## Examples
 
 This package contains an example along with tests, but full examples with instructions in the most popular mapping libraries for React can be found below.
